@@ -14,4 +14,4 @@ The following growing list contains all the quizzes I have published so far incl
 
 | Quiz                                                         | Solution                                                     | Reddit Thread |
 | :----------------------------------------------------------- | :----------------------------------------------------------- | ------------- |
-| [Quiz #01: Gremlin Nob vs. the Ironclad Basic Deck](./Quiz-01-Gremlin-Nob-vs-Ironclad-Basic-Deck/README.md#quiz-01-gremlin-nob-vs-ironclad-basic-deck) | [Solution #01](./Quiz-01-Goblin-Nob-vs-Ironclad-Basic-Deck/Solution.md#quiz-01-solution) | Reddit #01    |
+| [Quiz #01: Gremlin Nob vs. the Ironclad Basic Deck](./Quiz-01-Gremlin-Nob-vs-Ironclad-Basic-Deck/README.md#quiz-01-gremlin-nob-vs-ironclad-basic-deck) | [Solution #01](./Quiz-01-Gremlin-Nob-vs-Ironclad-Basic-Deck/Solution.md#quiz-01-solution) | Reddit #01    |
