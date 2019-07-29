@@ -1,4 +1,4 @@
-# Quiz #01: Goblin Nob vs. Ironclad Basic Deck
+# Quiz #01: Gremlin Nob vs. Ironclad Basic Deck
 
 This is Quiz #01 from the [Slay the Spire Sensei series](/README.md#slay-the-spire-sensei). Try to answer the questions in advance before looking at the [solution](#solution), to get the most out of it. You might also want to check out the corresponding Reddit thread. If you have any questions or feedback, drop me a line on [Twitter](https://twitter.com/Dementophobia).
 
