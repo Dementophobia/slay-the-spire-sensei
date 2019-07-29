@@ -12,6 +12,6 @@ You can follow me on [Twitter](https://twitter.com/Dementophobia) to get updates
 
 The following growing list contains all the quizzes I have published so far including their solution (a few days after the quiz goes live) and the respective Reddit threads.
 
-| Quiz                                                         | Solution                                                     | Reddit Thread |
-| :----------------------------------------------------------- | :----------------------------------------------------------- | ------------- |
-| [Quiz #01: Gremlin Nob vs. the Ironclad Basic Deck](./Quiz-01-Gremlin-Nob-vs-Ironclad-Basic-Deck/README.md#quiz-01-gremlin-nob-vs-ironclad-basic-deck) | [Solution #01](./Quiz-01-Gremlin-Nob-vs-Ironclad-Basic-Deck/Solution.md#quiz-01-solution) | Reddit #01    |
+| Quiz                                                         | Solution                                                     | Reddit Thread                                                |
+| :----------------------------------------------------------- | :----------------------------------------------------------- | ------------------------------------------------------------ |
+| [Quiz #01: Gremlin Nob vs. the Ironclad Basic Deck](./Quiz-01-Gremlin-Nob-vs-Ironclad-Basic-Deck/README.md#quiz-01-gremlin-nob-vs-ironclad-basic-deck) | [Solution #01](./Quiz-01-Gremlin-Nob-vs-Ironclad-Basic-Deck/Solution.md#quiz-01-solution) | [Reddit #01](https://www.reddit.com/r/slaythespire/comments/cjhgy3/slay_the_spire_sensei_quiz_01_gremlin_nob_vs/) |
