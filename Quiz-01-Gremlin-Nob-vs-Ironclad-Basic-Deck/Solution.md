@@ -127,7 +127,21 @@ That's the average of the best vs. the worst starting hand. If you followed the 
 
 ### Solution to the Bonus Question
 
-The bonus question has already be answered. No, no matter how much luck you have and how perfect you play, you will lose at least 2 HP in the best case. **There is no way to leave this fight with full HP.**
+**Yes, there is a way to leave this fight with full HP.** Credit goes to the user [gaztaseven](https://www.reddit.com/user/gaztaseven/), who found this solution, which I missed initially. The trick is that you have to play not optimal considering average results, to achieve this outlier.
+
+We start with the perfect draw from question 3.
+
+![Best Starting Hand](./images/best_initial_draw.png)
+
+We play Bash+ and Strike+ for 23 damage and draw turn 2.
+
+![Best Turn 2 Hand](./images/best_turn_2_draw.png)
+
+The best play is playing three Strike+, because we cannot be sure to win on turn 3. But if we want to leave without damage, we have to play two Strike+ and one Defend+. That way, we receive only 3 instead of 8 damage! The Gremlin Nob ends turn 2 with 36/85 HP.
+
+Now is the time to pray for three Strike+ in our hand for turn 3. This will kill the Gremlin Nob and we heal back to full HP to solve the riddle. If our prayer falls on deaf ears thou, we will end with a worse result than discussed in the solution to question 3.
+
+How probable is this scenario? In addition to the 2 starting hands SDDDB and SSDDB from our perfect scenario, this also works with SSSDB, because we need one less Strike+ on turn 2. These starting hands have a cumulative probability of ~47.62%. Getting the three Strike+ on turn 3 has a probability of exactly 50%. **This leaves us with a probability of 23.81% to achieve this scenario from start to finish.**
 
 ### Overview of Starting Hands and Final Conclusion
 
