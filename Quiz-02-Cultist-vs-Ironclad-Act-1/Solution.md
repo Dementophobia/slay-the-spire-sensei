@@ -1,8 +1,8 @@
 # Quiz #02: Solution
 
-Below you will find the answers to the second [Quiz](README.md#quiz-02-cultist-vs-ironclad-act-1) from the [Slay the Spire Sensei series](../README.md#slay-the-spire-sensei) and some additional insights. If you have questions or find any mistakes in my analysis, don't hesitate to contact me on [Reddit](https://www.reddit.com/r/slaythespire/) or [Twitter](https://twitter.com/Dementophobia).
+Below you will find the answers to the second [Quiz](README.md#quiz-02-cultist-vs-ironclad-act-1) from the [Slay the Spire Sensei series](../README.md#slay-the-spire-sensei) and some additional insights. If you have questions or find any mistakes in my analysis, don't hesitate to contact me on [Reddit](https://www.reddit.com/r/slaythespire/comments/cmq5y0/slay_the_spire_sensei_quiz_02_the_cultist_vs/) or [Twitter](https://twitter.com/Dementophobia).
 
-If you haven't done so yet, try to answer the questions in advance before looking at the solutions, to get the most out of it. To see how some of the Slay the Spire experts on Reddit approached these questions, you can read through the corresponding [Reddit thread](https://www.reddit.com/r/slaythespire/). Slay the Spire has a great community there!
+If you haven't done so yet, try to answer the questions in advance before looking at the solutions, to get the most out of it. To see how some of the Slay the Spire experts on Reddit approached these questions, you can read through the corresponding [Reddit thread](https://www.reddit.com/r/slaythespire/comments/cmq5y0/slay_the_spire_sensei_quiz_02_the_cultist_vs/). Slay the Spire has a great community there!
 
 ### General Observations
 
