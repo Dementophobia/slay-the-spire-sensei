@@ -22,7 +22,7 @@ Your goal is to assemble a deck that gives you the best chance to win the fight 
 
 Last but not least, you are on a time limit. You could easily build a deck that is capable of staying alive indefinitely, if the Jaw Worm plays along. To avoid such scenarios, the time limit is set to 5 turns. If you cannot land the killing blow on turn 5, it counts as a loss. It's a fricking Jaw Worm after all. **Stalling forever is not an option!**
 
-What will your deck look like? How can you optimize your chances for the perfect game? Let's get to work and post your results on Reddit!
+What will your deck look like? How can you optimize your chances for the perfect game? Let's get to work and post your results on [Reddit](https://www.reddit.com/r/slaythespire/comments/cr4vcf/slay_the_spire_sensei_quiz_03_jaw_worm_vs_reddit/)!
 
 ### Solution
 
