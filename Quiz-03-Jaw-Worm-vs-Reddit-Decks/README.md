@@ -12,11 +12,11 @@ You are playing as [Ironclad](https://slay-the-spire.fandom.com/wiki/Ironclad) a
 
 Your deck will contain 10 cards. **3 Strikes**, **2 Blocks** and **5 cards of your choosing**.
 
-![Deck Template](./images/Deck_Template.png)
+![Deck Template](./images/deck_template.png)
 
 Here is the pool of **25 cards**, which you can use to build your deck. You can **pick each card in the pool only once** and you must assemble a deck containing **exactly 10 cards**. You cannot remove the initial 5 basic cards.
 
-![Card Pool](./images/Card_Pool.png)
+![Card Pool](./images/card_pool.png)
 
 Your goal is to assemble a deck that gives you the best chance to win the fight without taking damage. We'll assume that you play each hand perfectly, to optimize your chances of reaching that goal.
 
