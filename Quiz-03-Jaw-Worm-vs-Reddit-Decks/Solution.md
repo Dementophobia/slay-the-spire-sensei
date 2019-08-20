@@ -60,6 +60,7 @@ You can click on all the percentages to get to an overview of the automated firs
 | IW, WS, DI, PT, IM | [Thunderbolt33](https://www.reddit.com/user/Thunderbolt33/)  | [0.00%](results/IW-WS-DI-PT-IM_0.md)     | [26.59%](results/IW-WS-DI-PT-IM_1.md)     | [52.70%](results/IW-WS-DI-PT-IM_2.md)     | [63.94%](results/IW-WS-DI-PT-IM_3.md)     |
 | BS, TH, PT, SR, IV | [Rezun94](https://www.reddit.com/user/Rezun94)               | **[4.37%](results/BS-TH-PT-SR-IV_0.md)** | [25.79%](results/BS-TH-PT-SR-IV_1.md)     | [55.56%](results/BS-TH-PT-SR-IV_2.md)     | [66.51%](results/BS-TH-PT-SR-IV_3.md)     |
 | D, AN, IW, TS, DI  | [Fifteenstepper](https://www.reddit.com/user/fifteenstepper) | [0.00%](results/D-AN-IW-TS-DI_0.md)      | [0.00%](results/D-AN-IW-TS-DI_1.md)       | [17.92%](results/D-AN-IW-TS-DI_2.md)      | [43.17%](results/D-AN-IW-TS-DI_3.md)      |
+| AN, BS, PT, FF, IV | [Dera60](https://www.reddit.com/user/dera60/)                | [0.00%](results/AN-BS-PT-FF-IV_0.md)     | [58.73%](results/AN-BS-PT-FF-IV_1.md)     | [72.70%](results/AN-BS-PT-FF-IV_2.md)     | [74.40%](results/AN-BS-PT-FF-IV_3.md)     |
 
 > D = Defense; AN = Anger; BS = Body Slam; IW = Iron Wave; SB = Sword Boomerang; TH = Thunderclap; TS = Twin Strike; WS = Wild Strike
 >
